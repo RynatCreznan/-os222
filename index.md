@@ -1,18 +1,8 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
-<br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[GITHUB]({{ site.githublink }})
-<br>
-<hr>
-This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+
+[HOME](https://RynatCreznan.github.io/os222/) --- [LINKS](https://RynatCreznan.github.io/os222/LINKS/) --- [LOG](https://RynatCreznan.github.io/os222/TXT/mylog.txt) --- [TARBALL](https://RynatCreznan.github.io/os222/SandBox/emyr298.tar.xz) --- [GITHUB](https://github.com/RynatCreznan/os222)
+
+---
+
+Hello, my name is Elang Permana and this is my page for Operating Systems class.
